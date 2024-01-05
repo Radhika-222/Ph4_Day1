@@ -1,0 +1,11 @@
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\bin\Debug\net6.0\CalcLib.dll
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.dll
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+E:\Mphasis Phase4\Day1\CalcLib\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
